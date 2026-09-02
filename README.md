@@ -66,4 +66,8 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
