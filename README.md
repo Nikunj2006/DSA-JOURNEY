@@ -61,6 +61,7 @@ The goal is to become **better every day.**
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -88,4 +89,9 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
