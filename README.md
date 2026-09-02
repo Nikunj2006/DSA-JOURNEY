@@ -66,6 +66,7 @@ The goal is to become **better every day.**
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
@@ -79,4 +80,12 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
