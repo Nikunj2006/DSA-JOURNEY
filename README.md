@@ -61,6 +61,7 @@ The goal is to become **better every day.**
 ## Array
 |  |
 | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -70,4 +71,12 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
