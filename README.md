@@ -55,3 +55,15 @@ The goal is to become **better every day.**
        IMPROVE
           ↓
         REPEAT ↺
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
+<!---LeetCode Topics End-->
