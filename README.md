@@ -1,11 +1,13 @@
 A collection of LeetCode questions to ace the coding interview! 
-<!---LeetCode Topics Start--># LeetCode Topics
+<!---LeetCode Topics Start-->
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
