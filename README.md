@@ -64,6 +64,7 @@ The goal is to become **better every day.**
 | [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
@@ -71,6 +72,7 @@ The goal is to become **better every day.**
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
 | [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -133,4 +135,20 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
