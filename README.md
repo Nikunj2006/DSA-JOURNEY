@@ -62,6 +62,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
+| [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -69,6 +70,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0013-roman-to-integer) |
+| [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Linked List
@@ -110,4 +112,24 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
