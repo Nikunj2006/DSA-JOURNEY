@@ -62,8 +62,10 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
