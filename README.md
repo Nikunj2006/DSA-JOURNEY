@@ -78,6 +78,7 @@ The goal is to become **better every day.**
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
@@ -86,4 +87,8 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0031-next-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
