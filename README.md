@@ -77,8 +77,13 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0031-next-permutation) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
