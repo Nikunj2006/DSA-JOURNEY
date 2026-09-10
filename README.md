@@ -82,6 +82,7 @@ The goal is to become **better every day.**
 | [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Trie
 |  |
 | ------- |
@@ -99,6 +100,7 @@ The goal is to become **better every day.**
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
