@@ -140,4 +140,24 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
