@@ -70,6 +70,7 @@ The goal is to become **better every day.**
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ The goal is to become **better every day.**
 | [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Trie
@@ -97,6 +99,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +115,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
