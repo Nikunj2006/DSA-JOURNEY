@@ -74,6 +74,7 @@ The goal is to become **better every day.**
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -166,4 +167,8 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
