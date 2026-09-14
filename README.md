@@ -65,6 +65,7 @@ The goal is to become **better every day.**
 | [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
+| [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
+| [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -171,4 +173,12 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
