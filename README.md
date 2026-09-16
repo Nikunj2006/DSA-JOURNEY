@@ -67,6 +67,7 @@ The goal is to become **better every day.**
 | [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ The goal is to become **better every day.**
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +156,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -183,6 +186,7 @@ The goal is to become **better every day.**
 | ------- |
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -195,4 +199,8 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
