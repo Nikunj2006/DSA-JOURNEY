@@ -94,6 +94,7 @@ The goal is to become **better every day.**
 | [0835-image-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Trie
@@ -115,6 +116,7 @@ The goal is to become **better every day.**
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
