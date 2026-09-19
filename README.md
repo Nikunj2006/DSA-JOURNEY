@@ -83,6 +83,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3870-count-commas-in-range) |
@@ -192,6 +193,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
