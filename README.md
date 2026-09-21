@@ -88,6 +88,7 @@ The goal is to become **better every day.**
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3871-count-commas-in-range-ii) |
@@ -102,6 +103,7 @@ The goal is to become **better every day.**
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -208,12 +210,14 @@ The goal is to become **better every day.**
 | [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
+| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -225,6 +229,7 @@ The goal is to become **better every day.**
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -240,4 +245,16 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
