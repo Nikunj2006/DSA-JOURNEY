@@ -109,6 +109,7 @@ The goal is to become **better every day.**
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3524-find-x-value-of-array-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Trie
 |  |
@@ -245,6 +246,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
 | ------- |
