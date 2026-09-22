@@ -90,6 +90,7 @@ The goal is to become **better every day.**
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -109,6 +110,7 @@ The goal is to become **better every day.**
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Trie
@@ -259,4 +261,8 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
