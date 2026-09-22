@@ -62,6 +62,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
@@ -85,6 +86,7 @@ The goal is to become **better every day.**
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -134,6 +136,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
