@@ -69,6 +69,7 @@ The goal is to become **better every day.**
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -138,6 +139,7 @@ The goal is to become **better every day.**
 | [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -239,6 +241,7 @@ The goal is to become **better every day.**
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
