@@ -106,6 +106,7 @@ The goal is to become **better every day.**
 | [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -159,6 +160,7 @@ The goal is to become **better every day.**
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +259,7 @@ The goal is to become **better every day.**
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
