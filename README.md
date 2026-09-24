@@ -114,6 +114,7 @@ The goal is to become **better every day.**
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -154,6 +155,7 @@ The goal is to become **better every day.**
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
@@ -170,6 +172,7 @@ The goal is to become **better every day.**
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
