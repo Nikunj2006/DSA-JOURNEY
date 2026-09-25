@@ -69,6 +69,7 @@ The goal is to become **better every day.**
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -149,6 +150,7 @@ The goal is to become **better every day.**
 | [0012-integer-to-roman](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
+| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -170,6 +172,7 @@ The goal is to become **better every day.**
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -190,6 +193,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -295,6 +299,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -311,4 +316,8 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
