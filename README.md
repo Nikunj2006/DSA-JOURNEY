@@ -215,6 +215,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Divide and Conquer
 |  |
 | ------- |
