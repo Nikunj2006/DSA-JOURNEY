@@ -67,6 +67,7 @@ The goal is to become **better every day.**
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
@@ -107,6 +108,7 @@ The goal is to become **better every day.**
 | [0031-next-permutation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
@@ -167,6 +169,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
 ## Sorting
@@ -184,6 +187,7 @@ The goal is to become **better every day.**
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -299,6 +303,7 @@ The goal is to become **better every day.**
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
 ## String Matching
 |  |
