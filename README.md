@@ -226,6 +226,7 @@ The goal is to become **better every day.**
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1291-sequential-digits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
