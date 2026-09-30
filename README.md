@@ -1,367 +1,116 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2800&pause=900&color=F59E5B&center=true&vCenter=true&width=800&height=70&lines=DSA+JOURNEY;ONE+PROBLEM+AT+A+TIME;THINK+%E2%80%A2+CODE+%E2%80%A2+IMPROVE+%E2%80%A2+REPEAT" alt="DSA Journey"/>
+# DSA / JOURNEY
+
+### THE ALGORITHM ATLAS
+
+**A record of problems solved. A study of patterns. A journey in progress.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F59E5B" width="45%"/>
-
-<br><br>
-
-### `NIKUNJ2006 / DSA-JOURNEY`
-
-**A long-term journey through Data Structures & Algorithms.**
-
-<br>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-F59E5B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/NikunjBharadiya/)
-[![C++](https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nikunj2006-344b3b?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikunj2006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-b45b42?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/NikunjBharadiya/)
+[![Repository](https://img.shields.io/badge/Repository-DSA--JOURNEY-8a7864?style=flat-square&logo=git&logoColor=white)](https://github.com/Nikunj2006/DSA-JOURNEY)
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-## 🧠 THE JOURNEY
+**01 — THE PURPOSE**
 
 </div>
 
-> **Don't chase the number of problems. Chase the ability to solve problems.**
+This repository is my evolving archive of Data Structures and Algorithms practice.
 
-This repository is my personal **DSA practice ground** — built around consistent problem solving, pattern recognition, and improving my understanding of algorithms.
+Every problem is an opportunity to understand a pattern, improve problem-solving skills and develop a more systematic approach to writing code.
 
-The goal isn't to finish quickly.
+It is not simply a collection of accepted submissions. It is a record of consistent practice, mistakes, improvements and discoveries.
 
-The goal is to become **better every day.**
+> **The objective is not to solve more problems blindly. It is to understand why a solution works.**
 
-<br>
+---
 
 <div align="center">
 
-```text
-        THINK
-          ↓
-       ATTEMPT
-          ↓
-        CODE
-          ↓
-       DEBUG
-          ↓
-       UNDERSTAND
-          ↓
-       IMPROVE
-          ↓
-        REPEAT ↺
+**02 — THE METHOD**
+
+### From problem to understanding
+
+</div>
+
+| STAGE | WHAT HAPPENS |
+|:---:|---|
+| 01 | **ANALYSE** — Understand the constraints and identify the underlying problem. |
+| 02 | **EXPLORE** — Consider possible approaches and their trade-offs. |
+| 03 | **IMPLEMENT** — Translate the chosen approach into code. |
+| 04 | **VERIFY** — Test edge cases, complexity and correctness. |
+| 05 | **REFINE** — Revisit the solution and improve understanding. |
+
+---
+
+<div align="center">
+
+**03 — THE TOOLKIT**
+
+### Languages & platforms
+
+</div>
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-344b3b?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-456b51?style=flat-square&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-b45b42?style=flat-square&logo=leetcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5d625b?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+- **Primary practice platform:** LeetCode
+- **Solution language:** C++ and other languages where applicable
+- **Version control:** Git and GitHub
+- **Workflow:** Automated solution synchronization through LeetHub v2
+
+---
+
+<div align="center">
+
+**04 — THE ARCHIVE**
+
+### Explore the collection
+
+</div>
+
+Solutions are organised by problem and indexed by their associated LeetCode topics. The topic directory below is maintained by the repository's existing automation.
+
+Use it to explore problems by category, revisit familiar patterns and discover related challenges.
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0012-integer-to-roman](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0012-integer-to-roman) |
-| [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
-| [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
-| [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
-| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-| [3498-reverse-degree-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3498-reverse-degree-of-a-string) |
-| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0115-distinct-subsequences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0115-distinct-subsequences) |
-| [0940-distinct-subsequences-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-| [3524-find-x-value-of-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3524-find-x-value-of-array-i) |
-## Math
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0012-integer-to-roman) |
-| [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
-| [1401-circle-and-rectangle-overlapping](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-| [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
-| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
-| [3524-find-x-value-of-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3524-find-x-value-of-array-i) |
-| [3525-find-x-value-of-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-| [3870-count-commas-in-range](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3870-count-commas-in-range) |
-| [3871-count-commas-in-range-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3871-count-commas-in-range-ii) |
-## Array
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
-| [0031-next-permutation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0031-next-permutation) |
-| [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
-| [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
-| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
-| [0835-image-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0835-image-overlap) |
-| [1260-shift-2d-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
-| [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
-| [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
-| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-| [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
-| [3524-find-x-value-of-array-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3524-find-x-value-of-array-i) |
-| [3525-find-x-value-of-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
-| [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0014-longest-common-prefix) |
-## Two Pointers
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0031-next-permutation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0031-next-permutation) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
-## Binary Search
-|  |
-| ------- |
-| [0035-search-insert-position](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0035-search-insert-position) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0012-integer-to-roman](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0012-integer-to-roman) |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
-| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
-| [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
-| [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-| [3471-find-the-largest-almost-missing-integer](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3471-find-the-largest-almost-missing-integer) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
-| [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
-| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
-## Matrix
-|  |
-| ------- |
-| [0036-valid-sudoku](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0036-valid-sudoku) |
-| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
-| [0835-image-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0835-image-overlap) |
-| [1260-shift-2d-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Sorting
-|  |
-| ------- |
-| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
-| [1331-rank-transform-of-an-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
-| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
-## Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Binary Tree
-|  |
-| ------- |
-| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
-| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
-| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
-| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
-## Recursion
-|  |
-| ------- |
-| [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
-## Enumeration
-|  |
-| ------- |
-| [1291-sequential-digits](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1291-sequential-digits) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
-| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
-## Linked List
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0083-remove-duplicates-from-sorted-list) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
-## Merge Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
-## Tournament Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
-## Geometry
-|  |
-| ------- |
-| [0836-rectangle-overlap](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0836-rectangle-overlap) |
-| [1401-circle-and-rectangle-overlapping](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
-## Greedy
-|  |
-| ------- |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
-| [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
-| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
-| [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
-| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
-| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
-| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
-## Game Theory
-|  |
-| ------- |
-| [1927-sum-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1927-sum-game) |
-| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
-## Combinatorics
-|  |
-| ------- |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-## Prefix Sum
-|  |
-| ------- |
-| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Counting
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
-| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
-| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-## Simulation
-|  |
-| ------- |
-| [1260-shift-2d-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1260-shift-2d-grid) |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3069-distribute-elements-into-two-arrays-i) |
-| [3498-reverse-degree-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3498-reverse-degree-of-a-string) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1386-cinema-seat-allocation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1386-cinema-seat-allocation) |
-| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
-## Minimax
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
-## Nim Game
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
-## Zero-Sum Game
-|  |
-| ------- |
-| [2029-stone-game-ix](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2029-stone-game-ix) |
-## Segment Tree
-|  |
-| ------- |
-| [3525-find-x-value-of-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3525-find-x-value-of-array-ii) |
-## Backtracking
-|  |
-| ------- |
-| [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
-| [0079-word-search](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0079-word-search) |
-| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Z Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Breadth-First Search
-|  |
-| ------- |
-| [1096-brace-expansion-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1096-brace-expansion-ii) |
-## Number Theory
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Euclidean Algorithm
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Greatest Common Divisor
-|  |
-| ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
-## Monotonic Stack
-|  |
-| ------- |
-| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
+
+---
+
+<div align="center">
+
+**05 — THE PRINCIPLE**
+
+### Consistency over intensity.
+
+One problem can reveal a pattern. One pattern can unlock an entire class of problems.
+
+The value of practice lies in what you understand and can apply again.
+
+<br>
+
+**KEEP THINKING. KEEP BUILDING. KEEP IMPROVING.**
+
+<br>
+
+<sub>Maintained by [Nikunj Bharadiya](https://github.com/Nikunj2006) · Updated through continuous practice</sub>
+
+</div>
