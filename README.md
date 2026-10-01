@@ -91,6 +91,18 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ---
