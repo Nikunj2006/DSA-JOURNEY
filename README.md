@@ -95,6 +95,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +104,15 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
 
 ---
