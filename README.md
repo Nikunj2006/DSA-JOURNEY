@@ -141,6 +141,14 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0301-remove-invalid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
 
 ---
