@@ -12,10 +12,8 @@ public:
         if (cnt == 0) return 0;
 
         int full = (1 << cnt) - 1;
-        // vis[i][j][e][mask]
         vector<vector<vector<vector<bool>>>> vis(m, vector<vector<vector<bool>>>(n,
             vector<vector<bool>>(energy + 1, vector<bool>(1 << cnt, false))));
-
         queue<tuple<int,int,int,int>> q;
         q.push({sx, sy, energy, full});
         vis[sx][sy][energy][full] = true;
