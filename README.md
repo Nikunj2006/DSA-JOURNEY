@@ -101,6 +101,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0678-valid-parenthesis-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0678-valid-parenthesis-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0678-valid-parenthesis-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
