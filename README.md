@@ -150,6 +150,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,10 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
 
 ---
