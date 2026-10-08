@@ -151,6 +151,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
 
 ---
