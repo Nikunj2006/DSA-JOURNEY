@@ -5,7 +5,6 @@ int firstStableIndex(int* nums, int numsSize, int k) {
     for (int i = n - 2; i >= 0; i--) {
         right[i] = right[i + 1] < nums[i] ? right[i + 1] : nums[i];
     }
-
     int left = nums[0];
     for (int i = 0; i < n; i++) {
         if (nums[i] > left) left = nums[i];
@@ -15,7 +14,6 @@ int firstStableIndex(int* nums, int numsSize, int k) {
             return res;
         }
     }
-
     free(right);
     return -1;
 }   
