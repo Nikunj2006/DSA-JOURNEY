@@ -143,6 +143,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3903-smallest-stable-index-i) |
@@ -163,10 +165,12 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
