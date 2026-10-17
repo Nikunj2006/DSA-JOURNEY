@@ -161,6 +161,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -173,6 +174,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -201,6 +203,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
