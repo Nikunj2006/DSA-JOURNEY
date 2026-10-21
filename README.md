@@ -103,6 +103,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
