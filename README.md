@@ -153,11 +153,13 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [1254-number-of-closed-islands](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -193,6 +195,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -250,6 +253,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -271,6 +275,10 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
 
 ---
