@@ -165,6 +165,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | ------- |
 | [0001-two-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -216,6 +217,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -234,6 +236,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
