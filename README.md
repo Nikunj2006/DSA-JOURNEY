@@ -135,6 +135,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0032-longest-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
@@ -175,6 +176,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -195,6 +197,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -220,6 +223,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3886-sum-of-sortable-integers) |
@@ -246,6 +250,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
@@ -314,6 +319,10 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
 
 ---
