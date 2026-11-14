@@ -179,6 +179,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -235,6 +236,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -328,6 +330,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
