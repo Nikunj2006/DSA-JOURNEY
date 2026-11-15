@@ -135,6 +135,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0022-generate-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3665-twisted-mirror-path-count) |
@@ -170,6 +171,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1254-number-of-closed-islands) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -226,6 +228,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -236,6 +239,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3904-smallest-stable-index-ii) |
