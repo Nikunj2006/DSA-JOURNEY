@@ -103,6 +103,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -349,6 +350,10 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
 
 ---
