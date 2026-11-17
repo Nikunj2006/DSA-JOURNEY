@@ -105,6 +105,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -138,6 +139,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0678-valid-parenthesis-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -354,6 +356,10 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
 
 ---
