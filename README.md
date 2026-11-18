@@ -106,6 +106,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
