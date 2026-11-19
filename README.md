@@ -157,6 +157,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -180,6 +181,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -258,6 +260,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3886-sum-of-sortable-integers) |
