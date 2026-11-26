@@ -248,6 +248,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -379,6 +380,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
