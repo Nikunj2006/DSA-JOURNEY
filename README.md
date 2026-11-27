@@ -147,6 +147,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Use it to explore problems by category, revisit familiar patterns and discover r
 | [3904-smallest-stable-index-ii](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nikunj2006/DSA-JOURNEY/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
